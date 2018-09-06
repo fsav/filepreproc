@@ -1,1 +1,1 @@
-from filedspreproc import FileDatasetPreprocessor
+from .filedspreproc import FileDatasetPreprocessor
